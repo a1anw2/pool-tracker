@@ -28,3 +28,7 @@ We'll be using a standard Raspberry Pi 3 as well as:
 * HD Camera (https://www.amazon.com/gp/product/B01MYUOQ0A/)
 
 Our aim is to utilize JavaScript for as much of this project as possible.
+
+## Dev
+
+To start the dev server simply navigate to the pool-tracker in the command shell and use 'npm start'
